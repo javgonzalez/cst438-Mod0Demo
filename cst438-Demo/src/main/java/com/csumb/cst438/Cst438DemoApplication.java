@@ -12,6 +12,7 @@ public class Cst438DemoApplication {
 		System.out.println("First Commit");
 		System.out.println("Second Commit");
 		System.out.println("3rd commit");
+		System.out.println("New branch");
 	}
 
 }
