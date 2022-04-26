@@ -1,6 +1,5 @@
 package com.csumb.cst438;
 
-import javax.sound.midi.Soundbank;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -12,6 +11,7 @@ public class Cst438DemoApplication {
 		SpringApplication.run(Cst438DemoApplication.class, args);
 		System.out.println("First Commit");
 		System.out.println("Second Commit");
+		System.out.println("3rd commit");
 	}
 
 }
