@@ -13,6 +13,12 @@ public class Cst438DemoApplication {
 		System.out.println("Second Commit");
 		System.out.println("3rd commit");
 		System.out.println("New branch");
+	   System.out.println("Adding dev branch again");
+	   System.out.println("Back at dev");
+	   System.out.println("Back at master again!");
+	   System.out.println("Back at hub");
+
+
 	}
 
 }
